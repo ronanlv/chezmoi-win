@@ -30,7 +30,7 @@
     {
         "defaults": 
         {
-            "colorScheme": "Solarized Dark High Contrast",
+            "colorScheme": "Ottosson",
             "cursorShape": "vintage",
             "font": 
             {
@@ -122,6 +122,24 @@
                 "hidden": false,
                 "name": "Developer PowerShell for VS 21",
                 "source": "Windows.Terminal.VisualStudio"
+            },
+            {
+                "guid": "{1c954d05-c16f-52ab-8a82-0a8e039235e5}",
+                "hidden": true,
+                "name": "Developer Command Prompt for VS 2022 [Preview]",
+                "source": "Windows.Terminal.VisualStudio"
+            },
+            {
+                "guid": "{b4d9cf48-b57f-53a7-8c38-0f742361bf09}",
+                "hidden": true,
+                "name": "Developer PowerShell for VS 2022 [Preview]",
+                "source": "Windows.Terminal.VisualStudio"
+            },
+            {
+                "guid": "{870db94a-7911-5267-b080-193c45423417}",
+                "hidden": false,
+                "name": "Ubuntu",
+                "source": "Microsoft.WSL"
             }
         ]
     },

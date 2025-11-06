@@ -1,0 +1,60 @@
+
+[alias]
+    aa = add --all
+    ap = add -p
+    c = commit
+    chb = checkout -b
+    ci = commit
+    amend = commit --amend --no-edit
+    br = branch
+    cm = commit -m
+    co = checkout
+    cob = checkout -b
+    df = diff
+    hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+    g = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+    loc = !git diff --stat `git hash-object -t tree /dev/null` | tail -1 | cut -d' ' -f5
+    pr = pull-request
+    st = status -sb
+    sum = log --oneline --no-merges
+    unstage = reset HEAD
+    lg = log --oneline --graph --decorate --all
+[init]
+    defaultBranch = main
+[push]
+    default = current
+    followTags = true
+    autoSetupRemote = true
+    pushOption = ci.skip
+[commit]
+    gpgSign = true
+[core]
+    editor = code --wait
+    autocrlf = input
+[fetch]
+    prune = true
+[merge]
+    ff = only
+[grep]
+    extendedRegexp = true
+    lineNumbers = true
+[color]
+    ui = auto
+    diff = auto
+    branch = auto
+    status = auto
+[diff]
+    mnemonicPrefix = true
+[rebase]
+    autoStash = true
+    autosquash = true
+[gpg]
+    program = gpg
+    format = ssh
+[user]
+    name = "Ronan L. VAN DER VEKEN"
+    email = "ronan@vanderveken.mx"
+    signingkey = "C:\\Users\\ronanlv\\.ssh\\ronanlv.pub"
+
+[includeIf "gitdir:C:/Projects/Cameleon"]
+    path = C:/Projects/gitconfig

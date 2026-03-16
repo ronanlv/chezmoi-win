@@ -6,8 +6,8 @@ FixedPageUI [
 	SelectionColor = #24fc0c
 	WindowMargin = 2 4 2 4
 	PageSpacing = 4 4
-	InvertColors = true
-	HideScrollbars = false
+	InvertColors = false
+	HideScrollbars = true
 ]
 ComicBookUI [
 	WindowMargin = 0 0 0 0
@@ -69,7 +69,7 @@ ShowFavorites = false
 ShowToc = true
 NoHomeTab = false
 TocDy = 0
-SidebarDx = 328
+SidebarDx = 368
 ToolbarSize = 18
 TabWidth = 300
 TreeFontSize = 0
@@ -78,15 +78,297 @@ TreeFontName = automatic
 SmoothScroll = false
 ShowStartPage = true
 CheckForUpdates = true
-WindowState = 1
-WindowPos = 824 0 1673 1440
+WindowState = 2
+WindowPos = -8 1050 1936 1058
 UseTabs = true
 UseSysColors = false
 CustomScreenDPI = 0
 
 FileStates [
 	[
-		FilePath = C:\Users\ronanlv\Documents\Books\PDFs\ai-ml\Paradigms of artificial intelligence programming.pdf
+		FilePath = C:\Users\ronanlv\Documents\Books\Algebraic Graph Theory (Chris Godsil).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 543.5
+		PageNo = 165
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = -8 1050 1936 1058
+		ShowToc = true
+		SidebarDx = 368
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Calculus\Lineaire algebra\Linear algebra and its applications 4th.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 4
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 25.5669
+		PageNo = 49
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = -8 1050 1936 1058
+		ShowToc = true
+		SidebarDx = 368
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Interpretatie van computerprogrammas\Slides\icp_1_meval.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 4
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 373.501
+		PageNo = 38
+		Zoom = 50
+		Rotation = 0
+		WindowState = 2
+		WindowPos = -8 1050 1936 1058
+		ShowToc = false
+		SidebarDx = 368
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Calculus\Thomas' Calculus (11th Edition) (Thomas Series).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 8
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 559.375
+		PageNo = 664
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = -8 1050 1936 1058
+		ShowToc = true
+		SidebarDx = 368
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 98 103 140 142 152 194 195 197 199 201 205 207
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Calculus\Thomas Calculus 11th Instructor's solutions manual.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 5
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 286.625
+		PageNo = 717
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = -8 1050 1936 1058
+		ShowToc = false
+		SidebarDx = 368
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Calculus\Lineaire algebra\WPO Planning lineaire algebra.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 5
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 166.167
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = -8 1050 1936 1058
+		ShowToc = false
+		SidebarDx = 368
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\Books\Mathematics\Number theory\Numerical Optimization - J. Nocedal, S. Wright.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 5
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = -8 1050 1936 1058
+		ShowToc = false
+		SidebarDx = 368
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Calculus\Lineaire algebra\Linear algebra and its applications 4th (Instructor's Solutions Manual).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 627.33
+		PageNo = 5
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1912 0 1936 2108
+		ShowToc = true
+		SidebarDx = 368
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Calculus\Calculus 2\CALC2 planning WPO 1 II B.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1912 0 1936 2108
+		ShowToc = false
+		SidebarDx = 368
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\Books\Structure and Interpretation of Computer Programs (Second Edition) (Hal Abelson and Gerald Jay Sussman etc.) (Z-Library).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 2.25017 68.5835
+		PageNo = 525
+		Zoom = 300
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 829 212 1936 1737
+		ShowToc = true
+		SidebarDx = 368
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 78
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Interpretatie van computerprogrammas\Slides\icp_0_introduction.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -1 -1
+		PageNo = 8
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = -9 0 1458 873
+		ShowToc = false
+		SidebarDx = 368
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Calculus\Calculus 2\CALC2 planning WPO 3 II B.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 28.5003
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 829 212 1936 1737
+		ShowToc = false
+		SidebarDx = 368
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Structuur van computerprogrammas\Slides\Hoofdstuk 2 - Eenvoudige Procedures.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -1 -1
+		PageNo = 11
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 353 -29 2570 1633
+		ShowToc = false
+		SidebarDx = 588
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Structuur van computerprogrammas\Slides\Hoofdstuk 1 - Inleiding.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -1 -1
+		PageNo = 21
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 353 -29 2570 1633
+		ShowToc = false
+		SidebarDx = 588
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Structuur van computerprogrammas\Kennen_kunnen.pdf
 		Favorites [
 		]
 		IsPinned = false
@@ -96,10 +378,832 @@ FileStates [
 		DisplayMode = continuous
 		ScrollPos = -1 -1
 		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 353 -29 2570 1633
+		ShowToc = false
+		SidebarDx = 588
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Structuur van computerprogrammas\SICP Boek.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 149.685
+		PageNo = 81
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 736 109 2142 1530
+		ShowToc = true
+		SidebarDx = 588
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Interpretatie van computerprogrammas\Slides\icp_0_overzicht_cursus.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 481.201 -1
+		PageNo = 1
+		Zoom = 75
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 736 109 2142 1530
+		ShowToc = false
+		SidebarDx = 588
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\Books\Introduction to Linear Algebra 5th (Gilbert Strang).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 63.0004
+		PageNo = 449
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 736 109 2142 1530
+		ShowToc = true
+		SidebarDx = 588
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Calculus 1\Lineaire algebra\WPO Planning lineaire algebra.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
 		Zoom = fit page
 		Rotation = 0
 		WindowState = 1
-		WindowPos = 824 0 1673 1440
+		WindowPos = 498 481 2415 1324
+		ShowToc = false
+		SidebarDx = 588
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Downloads\Linear Algebra and Its Applications, 4th Edition -- David C_ Lay -- 4th, 2010 -- Pearson Education -- 9780321385178 -- b1124b76b56ed22d7ed749906d6fa755 -- Anna’s Archive.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1140 0 2898 1324
+		ShowToc = true
+		SidebarDx = 673
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\Books\Structural Models An Introduction to the Theory of Directed Graphs (Frank Harary, Robert Zane Norman etc.) (Z-Library).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 36.7503
+		PageNo = 7
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 315 134 2898 1324
+		ShowToc = false
+		SidebarDx = 673
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Structuur van computerprogrammas\Slides\Hoofdstuk 3 - Complexe Procedures.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 429.039
+		PageNo = 3
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 315 134 2898 1324
+		ShowToc = false
+		SidebarDx = 673
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Structuur van computerprogrammas\clinics intro.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 54.9073
+		PageNo = 14
+		Zoom = 33.33
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 315 134 2898 1324
+		ShowToc = false
+		SidebarDx = 673
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Calculus 1\Lineaire algebra\Linear algebra and its applications 4th.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 576
+		Zoom = 200
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 499 482 2413 1323
+		ShowToc = true
+		SidebarDx = 588
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 9
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Calculus 1\Lineaire algebra\Linear algebra and its applications 4th (Instructor's Solutions Manual).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 395.4
+		PageNo = 7
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 499 482 2413 1323
+		ShowToc = true
+		SidebarDx = 588
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Calculus 1\Thomas' Calculus (11th Edition) (Thomas Series).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 493
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 499 482 2413 1323
+		ShowToc = true
+		SidebarDx = 588
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 98 103 152 158 194 195 197 199 201
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Calculus 1\Thomas Calculus 11th Instructor's solutions manual.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 239.167
+		PageNo = 718
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 499 482 2413 1323
+		ShowToc = false
+		SidebarDx = 588
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Downloads\Algebraic Graph Theory (Graduate Texts in Mathematics Book -- Godsil, Chris & Royle, Gordon F_ -- Graduate Texts in Mathematics Ser, New York, NY, -- 9780387952413 -- 7585b82c9c669108ba3157ad5b0f3906 -- Anna’s Ar.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 109.274
+		PageNo = 12
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = -9 385 2898 1324
+		ShowToc = true
+		SidebarDx = 673
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Downloads\Introduction to Linear Algebra, Fifth Edition (Gilbert -- Gilbert Strang -- 5th, 2016 -- Wellesley - Cambridge Press -- 9780980232776 -- a114d264a3f27b7c87c59a973710c388 -- Anna’s Archive.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 269.007
+		PageNo = 43
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = -9 385 2898 1324
+		ShowToc = true
+		SidebarDx = 673
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\Books\Mathematics\Algebra\Linear Algebra and Its Applications 3e - Gilbert Strang.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 326.375
+		PageNo = 18
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = -9 385 2898 1324
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Downloads\bijlage mail sessie deliberatieregels.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 451.778
+		PageNo = 8
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = -9 385 2898 1324
+		ShowToc = true
+		SidebarDx = 673
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Downloads\SANS\SANS 542\SANS 542\542.1 – Introduction and Information Gathering.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = false
+		SidebarDx = 507
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Downloads\SANS\SANS 507\SANS 507\507.1 – Effective Auditing, Risk Assessment and Reporting.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = true
+		SidebarDx = 507
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Downloads\SANS\SANS 505\SANS 505\505.1 – PowerShell Automation and Security.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = false
+		SidebarDx = 507
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Downloads\integralen2_kromme_oneigen_annot.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 22
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 658 216 1673 1324
+		ShowToc = false
+		SidebarDx = 507
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\uhasselt\Old\MATLAB-cursussen\Hfdst 3 Lineaire transformaties.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = false
+		SidebarDx = 507
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\uhasselt\Old\MATLAB-cursussen\Hfdst 1 Lineaire algebra met vectoren-2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 171.707
+		PageNo = 10
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = false
+		SidebarDx = 507
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Downloads\sicp.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 192.917
+		PageNo = 29
+		Zoom = 300
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = true
+		SidebarDx = 507
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\2025_Praktische_info_voor_werkstudenten_WE_sch_mati_ai_3j.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = false
+		SidebarDx = 507
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Creditbewijs Algebra Matlab.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 0.256121
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = false
+		SidebarDx = 507
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Logica en formele systemen\Logica voor informatica boek\9789043007221_BW_02.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 110.834
+		PageNo = 25
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = false
+		SidebarDx = 507
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Logica en formele systemen\Logica voor informatica boek\9789043007221_BW_01.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = false
+		SidebarDx = 507
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\Creditbewijs Ronan Van Der Veken UCLL.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 664.023
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = false
+		SidebarDx = 328
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\Creditbewijzen Ronan Van Der Veken UH.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = false
+		SidebarDx = 328
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Downloads\SANS\SANS 507\SANS 507\507.1 – Effective Auditing, Risk Assessment and Reporting.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = true
+		SidebarDx = 328
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Discrete Wiskunde\DiscreteWiskundeCursus.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 319.375
+		PageNo = 6
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = true
+		SidebarDx = 328
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Downloads\SANS\SANS 505\SANS 505\505.1 – PowerShell Automation and Security.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 654.685
+		PageNo = 106
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = false
+		SidebarDx = 328
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Downloads\SANS\SANS 504\SANS 504\504.1 – Incident Handling Step by Step and Computer Crime Investigation.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = false
+		SidebarDx = 328
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Downloads\SANS\SANS 501\SANS 501\501.1 – Defensive Network Infrastructure.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = false
+		SidebarDx = 328
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Downloads\SANS\SANS 500\SANS 500\500.1-2 – Windows Digit Forensics.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 0.2505
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = false
+		SidebarDx = 328
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Downloads\SANS\SANS 401\SANS 401\401.3 – Threat Management.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = true
+		SidebarDx = 328
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Downloads\SANS\SANS 401\SANS 401\401.1 – Network Security Essentials.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = true
+		SidebarDx = 328
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\School\vub\Algoritmen en datastructuren 1\handtaken notes.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 34.6004
+		PageNo = 4
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = false
+		SidebarDx = 328
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Downloads\SANS\SANS 642\SANS 642\642.3 – Web Cryptography.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 171.4
+		PageNo = 6
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = true
+		SidebarDx = 328
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Downloads\SANS\SANS 572\SANS 572\572.5 – Encryption and Protocol Reversing.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 575.834
+		PageNo = 35
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = false
+		SidebarDx = 328
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Documents\Books\PDFs\ai-ml\Paradigms of artificial intelligence programming.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 46.7335
+		PageNo = 55
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
 		ShowToc = false
 		SidebarDx = 328
 		DisplayR2L = false
@@ -111,15 +1215,15 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous book view
-		ScrollPos = -1 279.807
-		PageNo = 46
+		ScrollPos = -1 264.78
+		PageNo = 18
 		Zoom = fit page
 		Rotation = 0
-		WindowState = 1
-		WindowPos = 824 0 1673 1440
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
 		ShowToc = true
 		SidebarDx = 328
 		DisplayR2L = false
@@ -131,15 +1235,15 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
-		ScrollPos = -1 33.4004
+		ScrollPos = -1 32.6004
 		PageNo = 33
 		Zoom = 125
 		Rotation = 0
-		WindowState = 1
-		WindowPos = 824 0 1673 1440
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
 		ShowToc = true
 		SidebarDx = 328
 		DisplayR2L = false
@@ -151,15 +1255,15 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
-		ScrollPos = -1 293.087
+		ScrollPos = -1 292.76
 		PageNo = 437
 		Zoom = fit page
 		Rotation = 0
-		WindowState = 1
-		WindowPos = 824 0 1673 1440
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
 		ShowToc = true
 		SidebarDx = 328
 		DisplayR2L = false
@@ -171,16 +1275,36 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
 		ScrollPos = -1 -1
 		PageNo = 164
 		Zoom = fit page
 		Rotation = 0
-		WindowState = 1
-		WindowPos = 824 0 1673 1440
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
 		ShowToc = false
+		SidebarDx = 328
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\ronanlv\Downloads\SANS\SANS 526\SANS 526\526.1 – Foundations in Memory Analysis Acquisitions.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 773 0 2008 1728
+		ShowToc = true
 		SidebarDx = 328
 		DisplayR2L = false
 		ReparseIdx = 0
@@ -190,58 +1314,68 @@ SessionData [
 	[
 		TabStates [
 			[
-				FilePath = C:\Users\ronanlv\Documents\Books\Mathematics\Analysis\Analysis and Simulation of Chaotic Systems 2nd ed. - F. Hoppensteadt.pdf
-				DisplayMode = continuous
-				PageNo = 164
-				Zoom = fit page
-				Rotation = 0
-				ScrollPos = -1 -1
-				ShowToc = false
-			]
-			[
-				FilePath = C:\Users\ronanlv\Documents\Books\Mathematics\Advanced Linear and Matrix Algebra.pdf
-				DisplayMode = continuous
-				PageNo = 437
-				Zoom = fit page
-				Rotation = 0
-				ScrollPos = -1 293.087
-				ShowToc = true
-			]
-			[
-				FilePath = C:\Users\ronanlv\Documents\Books\PDFs\nostarch\(NSP) Windows Security Internals.pdf
-				DisplayMode = continuous
-				PageNo = 33
-				Zoom = 125
-				Rotation = 0
-				ScrollPos = -1 33.4004
-				ShowToc = true
-			]
-			[
-				FilePath = C:\Users\ronanlv\Documents\Books\PDFs\nostarch\(NSP) Attacking Network Protocols.pdf
-				DisplayMode = continuous book view
-				PageNo = 46
-				Zoom = fit page
-				Rotation = 0
-				ScrollPos = -1 279.807
-				ShowToc = true
-			]
-			[
-				FilePath = C:\Users\ronanlv\Documents\Books\PDFs\ai-ml\Paradigms of artificial intelligence programming.pdf
+				FilePath = C:\Users\ronanlv\Documents\School\vub\Calculus\Lineaire algebra\WPO Planning lineaire algebra.pdf
 				DisplayMode = continuous
 				PageNo = 1
-				Zoom = fit page
+				Zoom = 150
 				Rotation = 0
-				ScrollPos = -1 -1
+				ScrollPos = -1 166.167
 				ShowToc = false
 			]
+			[
+				FilePath = C:\Users\ronanlv\Documents\School\vub\Calculus\Thomas Calculus 11th Instructor's solutions manual.pdf
+				DisplayMode = continuous
+				PageNo = 717
+				Zoom = 200
+				Rotation = 0
+				ScrollPos = -1 286.625
+				ShowToc = false
+			]
+			[
+				FilePath = C:\Users\ronanlv\Documents\School\vub\Calculus\Thomas' Calculus (11th Edition) (Thomas Series).pdf
+				DisplayMode = continuous
+				PageNo = 664
+				Zoom = 200
+				Rotation = 0
+				ScrollPos = -1 559.375
+				ShowToc = true
+				TocState = 98 103 140 142 152 194 195 197 199 201 205 207
+			]
+			[
+				FilePath = C:\Users\ronanlv\Documents\School\vub\Interpretatie van computerprogrammas\Slides\icp_1_meval.pdf
+				DisplayMode = continuous
+				PageNo = 38
+				Zoom = 50
+				Rotation = 0
+				ScrollPos = -1 373.501
+				ShowToc = false
+			]
+			[
+				FilePath = C:\Users\ronanlv\Documents\School\vub\Calculus\Lineaire algebra\Linear algebra and its applications 4th.pdf
+				DisplayMode = continuous
+				PageNo = 49
+				Zoom = fit width
+				Rotation = 0
+				ScrollPos = -1 25.5669
+				ShowToc = true
+			]
+			[
+				FilePath = C:\Users\ronanlv\Documents\Books\Algebraic Graph Theory (Chris Godsil).pdf
+				DisplayMode = continuous
+				PageNo = 165
+				Zoom = 150
+				Rotation = 0
+				ScrollPos = -1 543.5
+				ShowToc = true
+			]
 		]
-		TabIndex = 6
-		WindowState = 1
-		WindowPos = 824 0 1673 1440
-		SidebarDx = 328
+		TabIndex = 4
+		WindowState = 2
+		WindowPos = -8 1050 1936 1058
+		SidebarDx = 368
 	]
 ]
 TimeOfLastUpdateCheck = 0 0
-OpenCountWeek = 786
+OpenCountWeek = 793
 
 # Settings below are not recognized by the current version

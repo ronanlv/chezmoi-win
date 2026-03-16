@@ -1,0 +1,25 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+oem_plus",
+        "command": "editor.action.fontZoomIn"
+    },
+    {
+        "key": "ctrl+oem_minus",
+        "command": "editor.action.fontZoomOut"
+    },
+    {
+        "key": "ctrl+0",
+        "command": "editor.action.fontZoomReset"
+    },
+    {
+        "key": "ctrl+shift+'",
+        "command": "workbench.action.terminal.new",
+        "when": "terminalProcessSupported || terminalWebExtensionContributedProfile"
+    },
+    {
+        "key": "ctrl+shift+`",
+        "command": "-workbench.action.terminal.new",
+        "when": "terminalProcessSupported || terminalWebExtensionContributedProfile"
+    }
+]

@@ -1,7 +1,8 @@
 Invoke-Expression (&starship init powershell)
 Clear-Host
 
-$env:PATH += ";C:\Program Files\Emacs\emacs-30.2\bin"
+$env:PATH += "  C:\Program Files\Emacs\emacs-30.2\bin;"
+$env:PATH += [Environment]::GetEnvironmentVariable("Path", "User") + ";" + [Environment]::GetEnvironmentVariable("Path", "Machine")
 
 function Get-FolderSize {
     param([string]$Path = ".")
